@@ -1,4 +1,3 @@
-import React from "react";
 import "./App.css";
 import { AppContainer } from "./app/app-container";
 import { BrowserRouter } from "react-router-dom";

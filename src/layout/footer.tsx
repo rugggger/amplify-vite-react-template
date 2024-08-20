@@ -1,20 +1,19 @@
-import React from "react";
 
-import { styled } from "@mui/material/styles";
-import Paper from "@mui/material/Paper";
+// import { styled } from "@mui/material/styles";
+// import Paper from "@mui/material/Paper";
 import Grid from "@mui/material/Grid";
 import { useTheme } from "@mui/material/styles";
 import { Container, Divider } from "@mui/material";
 
-const Item = styled(Paper)(({ theme }) => ({
-  //backgroundColor: theme.palette.mode === 'dark' ? '#1A2027' : '#fff',
-  backgroundColor:
-    theme.palette.mode === "dark" ? "#1A2027" : "rgb(30, 41, 59)",
-  ...theme.typography.body2,
-  padding: theme.spacing(1),
-  textAlign: "center",
-  color: theme.palette.text.secondary,
-}));
+// const Item = styled(Paper)(({ theme }) => ({
+//   //backgroundColor: theme.palette.mode === 'dark' ? '#1A2027' : '#fff',
+//   backgroundColor:
+//     theme.palette.mode === "dark" ? "#1A2027" : "rgb(30, 41, 59)",
+//   ...theme.typography.body2,
+//   padding: theme.spacing(1),
+//   textAlign: "center",
+//   color: theme.palette.text.secondary,
+// }));
 
 export const Footer = () => {
   const theme = useTheme();

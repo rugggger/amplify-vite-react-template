@@ -53,7 +53,7 @@ const createCustomTheme = (mode: PaletteMode) => {
       },
       MuiAppBar: {
         styleOverrides: {
-          root: ({ theme }) => ({
+          root: ({ }) => ({
             backgroundColor: 'rgb(43 42 101 / 83%)',
             border: 'none'
           }),
