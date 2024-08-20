@@ -1,0 +1,44 @@
+<svg enable-background="new 0 0 328 200" height="200" viewBox="0 0 328 200" width="328"
+    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <linearGradient id="a" gradientTransform="matrix(.1455 0 0 -.1455 -158.937 -144.4977)"
+        gradientUnits="userSpaceOnUse" x1="1092.3506" x2="3080.7188" y1="-2030.0245" y2="-2030.0245">
+        <stop offset="0" stop-color="#23286b" />
+        <stop offset="1" stop-color="#151a4f" />
+    </linearGradient>
+    <linearGradient id="b">
+        <stop offset="0" stop-color="#a1c3fc" />
+        <stop offset="1" stop-color="#78a9ef" />
+    </linearGradient>
+    <linearGradient id="c" gradientTransform="matrix(-.138 .0308 .0308 .138 -378.8888 165.3028)"
+        gradientUnits="userSpaceOnUse" x1="-3326.2876" x2="-4370.6172" xlink:href="#b" y1="49.772"
+        y2="49.772" />
+    <linearGradient id="d" gradientTransform="matrix(.1455 0 0 -.1455 -158.937 -144.4977)"
+        gradientUnits="userSpaceOnUse" x1="2234.6672" x2="3314.2773" xlink:href="#b" y1="-1206.7015"
+        y2="-1206.7015" />
+    <linearGradient id="e">
+        <stop offset=".1291" stop-color="#428dfc" />
+        <stop offset=".9987" stop-color="#1d72d8" />
+    </linearGradient>
+    <linearGradient id="f" gradientTransform="matrix(.1455 0 0 -.1455 -158.937 -144.4977)"
+        gradientUnits="userSpaceOnUse" x1="1502.6265" x2="2253.9036" xlink:href="#e" y1="-2107.9666"
+        y2="-1877.3684" />
+    <linearGradient id="g" gradientTransform="matrix(.1455 0 0 -.1455 -158.937 -144.4977)"
+        gradientUnits="userSpaceOnUse" x1="2042.4543" x2="2745.2085" xlink:href="#e" y1="-1830.5887"
+        y2="-1830.5887" />
+    <path
+        d="m163.773 200c-38.299 0-75.553-2.883-104.896-8.115-.404-.073-.675-.46-.602-.865.073-.404.454-.671.864-.603 29.26 5.218 66.42 8.092 104.634 8.092 43.617 0 84.617-3.624 115.444-10.201 30.055-6.415 47.293-15.139 47.293-23.939 0-.411.334-.746.745-.746s.745.334.745.746c-.003 19.98-72.137 35.631-164.227 35.631z"
+        fill="#428dfc" />
+    <ellipse cx="144.654" cy="150.871" fill="url(#a)" rx="144.654" ry="34.708" />
+    <path
+        d="m59.338 106.545-35.223-55.811 153.319-34.227s-4.48 16.937-28.184 34.035-43.046 45.546-43.046 45.546z"
+        fill="url(#c)" />
+    <path
+        d="m188.28 62.153-22.252-62.148 157.083-.005s-8.055 15.556-34.905 27.078c-26.851 11.522-51.911 35.076-51.911 35.076z"
+        fill="url(#d)" />
+    <path
+        d="m144.654 182.597c13.031 0 25.657-.416 37.668-1.192-37.674-44.489-76.036-86.404-76.036-86.404l-46.863 10.461s-1.313 37.654 14.154 72.661c20.994 2.847 45.242 4.474 71.077 4.474z"
+        fill="url(#f)" />
+    <path
+        d="m144.654 182.597c36.681 0 70.166-3.278 95.665-8.677-1.647-55.971-4.022-112.811-4.022-112.811h-48.012c-43.253 34.997-47.032 65.732-50.216 121.45 2.184.023 4.378.038 6.585.038z"
+        fill="url(#g)" />
+</svg>

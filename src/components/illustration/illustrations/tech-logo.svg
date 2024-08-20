@@ -1,0 +1,59 @@
+<svg viewBox="0 0 236 36" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-6 lg:h-9">
+    <path
+        d="M101.317 13.26h-9.05a9.362 9.362 0 0 0-16.374 0h-2.621l-3.668-5.838A17.8 17.8 0 0 1 84.082 0c8.276 0 15.233 5.63 17.235 13.26Z"
+        fill="url(#logo_svg__a)"></path>
+    <path
+        d="M92.251 22.298h-.003c-1.418 2.538-4.087 4.346-6.984 4.714-1.865.237-3.798-.125-5.472-.975-1.764-.896-2.69-2.181-3.68-3.74a78.49 78.49 0 0 0-.372-.59l-5.289-8.45-2.236-3.574-.008.02c-2.324-4.536-6.682-7.991-11.643-9.2A17.489 17.489 0 0 0 51.32.049c-5.354.33-10.395 3.031-13.466 7.44-2.867 4.119-4.019 9.454-2.861 14.353 1.556 6.58 7.188 12.013 13.833 13.342 6.644 1.33 13.944-1.516 17.922-6.988a15858.68 15858.68 0 0 0-3.688-5.894h-2.592c-1.418 2.454-3.964 4.279-6.785 4.69-3.733.545-7.703-1.418-9.53-4.706h8.883v-9.042h-8.883c2.061-3.693 6.842-5.63 10.904-4.41 1.316.396 2.55 1.09 3.521 2.063.7.7 1.25 1.525 1.778 2.364.08.122.156.248.235.373 1.275 2.04 3.448 5.564 5.373 8.668 1.912 3.083 3.585 5.752 3.9 6.169 4.002 5.286 11.142 8.007 17.657 6.727 6.515-1.28 12.093-6.494 13.786-12.9h-9.057ZM77.263 24.15l-.016-.028a.146.146 0 0 0 .022.025l-.006.003Z"
+        fill="url(#logo_svg__b)"></path>
+    <path d="M104.521 13.236v9.04h31.182v-9.04h-31.182Z" fill="url(#logo_svg__c)"></path>
+    <path
+        d="M42.64.03c-2.558 1.28-4.8 3.168-6.46 5.556a18.414 18.414 0 0 0-1.902 3.486H0V.03h42.64Z"
+        fill="url(#logo_svg__d)"></path>
+    <path d="M103.763 35.377h9.04V.108h-9.04v35.27Z" fill="url(#logo_svg__e)"></path>
+    <path d="M12.72 35.377h9.04V.108h-9.04v35.27Z" fill="url(#logo_svg__f)"></path>
+    <path d="M126.96 35.377H136V.108h-9.04v35.27Z" fill="url(#logo_svg__g)"></path>
+    <defs>
+        <linearGradient id="logo_svg__a" x1="11.503" y1="-18.323" x2="146.951" y2="30.839"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3482F9"></stop>
+            <stop offset="0.5" stop-color="#39C5F7"></stop>
+            <stop offset="1" stop-color="#3AD989"></stop>
+        </linearGradient>
+        <linearGradient id="logo_svg__b" x1="4.683" y1="0.465" x2="140.131" y2="49.627"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3482F9"></stop>
+            <stop offset="0.5" stop-color="#39C5F7"></stop>
+            <stop offset="1" stop-color="#3AD989"></stop>
+        </linearGradient>
+        <linearGradient id="logo_svg__c" x1="12.575" y1="-21.276" x2="148.022" y2="27.886"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3482F9"></stop>
+            <stop offset="0.5" stop-color="#39C5F7"></stop>
+            <stop offset="1" stop-color="#3AD989"></stop>
+        </linearGradient>
+        <linearGradient id="logo_svg__d" x1="5.309" y1="-1.26" x2="140.757" y2="47.903"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3482F9"></stop>
+            <stop offset="0.5" stop-color="#39C5F7"></stop>
+            <stop offset="1" stop-color="#3AD989"></stop>
+        </linearGradient>
+        <linearGradient id="logo_svg__e" x1="11.202" y1="-17.494" x2="146.65" y2="31.668"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3482F9"></stop>
+            <stop offset="0.5" stop-color="#39C5F7"></stop>
+            <stop offset="1" stop-color="#3AD989"></stop>
+        </linearGradient>
+        <linearGradient id="logo_svg__f" x1="0.603" y1="11.704" x2="136.051" y2="60.867"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3482F9"></stop>
+            <stop offset="0.5" stop-color="#39C5F7"></stop>
+            <stop offset="1" stop-color="#3AD989"></stop>
+        </linearGradient>
+        <linearGradient id="logo_svg__g" x1="13.902" y1="-24.934" x2="149.349" y2="24.229"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#3482F9"></stop>
+            <stop offset="0.5" stop-color="#39C5F7"></stop>
+            <stop offset="1" stop-color="#3AD989"></stop>
+        </linearGradient>
+    </defs>
+</svg>
